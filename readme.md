@@ -196,11 +196,11 @@ Feature engineering is applied to cut a meaningful portion of data randomly from
 
     Column_1	Column_2	Column_3
 
-1 V W D
-2 E L O
-3 Y N
-4 R E E
-5 N
+1       V           W            D
+2       E           L            O
+3       Y                        N
+4       R            E           E
+5                                N
 TABLE 2. DATA AFTER PREPROCESSED
 Column_1 Column_2 Column_3
 1 V W D
