@@ -297,7 +297,8 @@ In regression, most common error evaluation metrics are:
 4. Confusion Matrix: It is a table consisting of True Positives (TP), True Negative (TN), False Positive (FP) and False Negative (FN).
 5. Accuracy can be calculated as:
    (TP+TN) / (Total Values)
-   Talk about classification report more
+   <br>
+   <!-- Talk about classification report more -->
    Now, optimization of model is done in various ways. Sometimes, we return to point zero i.e. pre-processing, may be remove column that seems unnecessary. Other times, internal parameters of algorithm that can be altered are altered for instance for KNN, number of neighbours is a parameter or attribute, can be al-tered to achieve better results.
    <br>
    <!-- Talk about clustering Evaluation More -->
