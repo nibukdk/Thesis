@@ -10,37 +10,37 @@ To be added ...
 
 TO be added...
 
-CONTENTS
-ABBREVIATIONS 7
-TERMS 7
-1 INTRODUCTION 9
-2 MACHINE LEARNING 10
-2.1 Supervised Learning 11
-2.1.1 Regression 11
-2.1.2 Classification 12
-2.2 Unsupervised Learning 12
-2.2.1 Clustering 13
-Reinforcement Learning 13
-3 PYTHON 14
-Python Modules and Packages 14
-3.1 Python Packages for Machine Learning 14
-3.1.1 Numpy 14
-3.1.2 Pandas 14
-3.1.3 Scikit Learn 15
-3.1.4 Matplotlib 15
-3.1.5 Seaborn 15
-4 PHASES IN MACHINE LEARNING 16
-4.1 Fetching Data 17
-4.2 Pre-processing 18
-4.2.1 Missing Values 18
-4.2.2 Normalizing Data 19
-Normalization / Min-Max Scaling 19
-Standardization 19
-4.2.3 Feature Generation 19
-4.3 Data Splitting 20
-4.4 Modelling 21
-4.5 Model Optimization/ Tuning 22
-5 MACHINE LEARNING IN PYTHON 24
+#CONTENTS
+ABBREVIATIONS 7 <br>
+TERMS 7<br>
+1 INTRODUCTION 9 <br>
+2 MACHINE LEARNING 10<br>
+2.1 Supervised Learning 11<br>
+2.1.1 Regression 11<br>
+2.1.2 Classification 12<br>
+2.2 Unsupervised Learning 12<br>
+2.2.1 Clustering 13<br>
+Reinforcement Learning 13<br>
+3 PYTHON 14<br>
+Python Modules and Packages 14<br>
+3.1 Python Packages for Machine Learning 14<br>
+3.1.1 Numpy 14<br>
+3.1.2 Pandas 14<br>
+3.1.3 Scikit Learn 15<br>
+3.1.4 Matplotlib 15<br>
+3.1.5 Seaborn 15<br>
+4 PHASES IN MACHINE LEARNING 16<br>
+4.1 Fetching Data 17<br>
+4.2 Pre-processing 18<br>
+4.2.1 Missing Values 18<br>
+4.2.2 Normalizing Data 19<br>
+Normalization / Min-Max Scaling 19<br>
+Standardization 19<br>
+4.2.3 Feature Generation 19<br>
+4.3 Data Splitting 20<br>
+4.4 Modelling 21<br>
+4.5 Model Optimization/ Tuning 22<br>
+5 MACHINE LEARNING IN PYTHON 24<br>
 
 # VOCABULARY
 
@@ -306,34 +306,34 @@ In regression, most common error evaluation metrics are:
 
 # REFERENCES
 
-[1] Wikipedia. Python Programming Language. Date of Retrieval 07.03.2019,
-https://en.wikipedia.org/wiki/Python_(programming_language)#Implementations
-[2] Wikipedia, Machine Learning Definition. Date of Retrieval 07.03.2019,
-https://en.wikipedia.org/wiki/Machine_learning
-[3] Wikipedia, Supervised Learning Definition. Date of Retrieval 07.03.2019,
-https://en.wikipedia.org/wiki/Supervised_learning
-[4] Swamynathan, M. 2017. Mastering Machine Learning with Python in Six Steps. Date of Retrieval 07.03.2019,
-https://learning.oreilly.com/library/view/mastering-machine-learning/9781484228661/ACoverHTML.html
-[5] Swamynathan, M. 2017. FIGURE 1. Mastering Machine Learning with Py-thon in Six Steps. Figure 2-9 Types of Machine Learning. Date of Retrieval 09.03.2019,
+[1] Wikipedia. Python Programming Language. Date of Retrieval 07.03.2019, <br>
+https://en.wikipedia.org/wiki/Python_(programming_language)#Implementations<br>
+[2] Wikipedia, Machine Learning Definition. Date of Retrieval 07.03.2019,<br>
+https://en.wikipedia.org/wiki/Machine_learning<br>
+[3] Wikipedia, Supervised Learning Definition. Date of Retrieval 07.03.2019, <br>
+https://en.wikipedia.org/wiki/Supervised_learning<br>
+[4] Swamynathan, M. 2017. Mastering Machine Learning with Python in Six Steps. Date of Retrieval 07.03.2019,<br>
+https://learning.oreilly.com/library/view/mastering-machine-learning/9781484228661/ACoverHTML.html<br>
+[5] Swamynathan, M. 2017. FIGURE 1. Mastering Machine Learning with Py-thon in Six Steps. Figure 2-9 Types of Machine Learning. Date of Retrieval 09.03.2019,<br>
 https://learning.oreilly.com/library/view/mastering-machine-learning/9781484228661/A434293_1_En_2_Chapter.html
-
-[6] Wikipedia. FIGURE 2. Date of Retrieval 09.03.2019,
-https://en.wikipedia.org/wiki/Linear_regression#/media/File:Linear_regression.svg
-[7] Swamynathan, M. 2017. Mastering Machine Learning with Python in Six Steps. Reinforcement Learning. Date of Retrieval 08.03.2019,
-https://learning.oreilly.com/library/view/mastering-machine-learning/9781484228661/A434293_1_En_2_Chapter.html
-[8] Wikipedia. Reinforcement Learning. Date of Retrieval 09.03.2019,
-https://en.wikipedia.org/wiki/Reinforcement_learning
-[9] LearnPython.Org. Python Modules and Packages. Date of Retrieval 10.03.2019,
-https://www.learnpython.org/en/Modules_and_Packages
-[10] Numpy Documentation. Numpy. Date of Retrieval 10.03.2019,
-http://www.numpy.org/
-[11] Pandas Documentation. Pandas. Date of Retrieval 10.03.2019,
-https://pandas.pydata.org/
-[12] Scikit Learn Documentation. Scikit Learn. Date of Retrieval 10.03.2019,
-https://scikit-learn.org/stable/index.html
-[13] Matplotlib Documentation. Matplotlib. Date of Retrieval 20.03.2019
-https://matplotlib.org/
-[14] Seaborn Documentation. Seaborn. Date of Retrieval 20.03.2019
-https://seaborn.pydata.org/
-[12] Scikit Learn algorithm cheat-sheet. Figure 3. Date of Retrieval 15.04.2019
-https://scikit-learn.org/stable/_static/ml_map.png
+<br>
+[6] Wikipedia. FIGURE 2. Date of Retrieval 09.03.2019,<br>
+https://en.wikipedia.org/wiki/Linear_regression#/media/File:Linear_regression.svg<br>
+[7] Swamynathan, M. 2017. Mastering Machine Learning with Python in Six Steps. Reinforcement Learning. Date of Retrieval 08.03.2019,<br>
+https://learning.oreilly.com/library/view/mastering-machine-learning/9781484228661/A434293_1_En_2_Chapter.html <br>
+[8] Wikipedia. Reinforcement Learning. Date of Retrieval 09.03.2019,<br>
+https://en.wikipedia.org/wiki/Reinforcement_learning<br>
+[9] LearnPython.Org. Python Modules and Packages. Date of Retrieval 10.03.2019,<br>
+https://www.learnpython.org/en/Modules_and_Packages<br>
+[10] Numpy Documentation. Numpy. Date of Retrieval 10.03.2019,<br>
+http://www.numpy.org/<br>
+[11] Pandas Documentation. Pandas. Date of Retrieval 10.03.2019,<br>
+https://pandas.pydata.org/<br>
+[12] Scikit Learn Documentation. Scikit Learn. Date of Retrieval 10.03.2019,<br>
+https://scikit-learn.org/stable/index.html<br>
+[13] Matplotlib Documentation. Matplotlib. Date of Retrieval 20.03.2019,<br>
+https://matplotlib.org/<br>
+[14] Seaborn Documentation. Seaborn. Date of Retrieval 20.03.2019<br>
+https://seaborn.pydata.org/<br>
+[12] Scikit Learn algorithm cheat-sheet. Figure 3. Date of Retrieval 15.04.2019<br>
+https://scikit-learn.org/stable/_static/ml_map.png<br>
