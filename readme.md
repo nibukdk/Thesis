@@ -23,7 +23,8 @@ has been explained in theory in the thesis. In addition, Pre-processing Data,
 Training and Testing Models, Optimization of Model in the Supervised Machine
 Learning has been further elaborated using Linear Regression and K-Nearest
 Neighbor (KNN) as examples in python programming. <br>
-The paper, as a result, can act as a starting tool and conventional guide to beginner ML practitioner for any ML algorithms other than presented in the paper.People with knowledge of python can further benefit for the conventions and alternatives presented in the coding section of the paper.  <br>
+The paper, as a result, can act as a starting tool and conventional guide to beginner ML practitioner for any ML algorithms other than presented in the paper.People with knowledge of python can further benefit for the conventions and alternatives presented in the coding section of the paper.<br>
+
 ---
 <br>
 <strong>Keywords</strong>: Machine Learning, ML Phases, Supervised Machine Learning, Py-thon Programming, Guide, Linear Regression, KNN
