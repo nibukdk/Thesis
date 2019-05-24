@@ -29,6 +29,8 @@ The paper, as a result, can act as a starting tool and conventional guide to beg
 <br>
 <strong>Keywords</strong>: Machine Learning, ML Phases, Supervised Machine Learning, Py-thon Programming, Guide, Linear Regression, KNN
 
+---
+
 # POSTER TEMPLATE FOR THESIS
 
 ![Poster Template for Thesis](https://github.com/nibukdk/Thesis/blob/master/maturity_poster_template_version_2.png "Poster Template")
