@@ -33,4 +33,4 @@ The paper, as a result, can act as a starting tool and conventional guide to beg
 
 # POSTER TEMPLATE FOR THESIS
 
-![Poster Template for Thesis](https://github.com/nibukdk/Thesis/blob/master/maturity_poster_template_version_2.png "Poster Template")
+![Poster Template for Thesis](https://github.com/nibukdk/Thesis/blob/master/Poster%20Template/maturity_poster_template_version_2.png "Poster Template")
