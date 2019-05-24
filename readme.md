@@ -3,11 +3,11 @@
 ---
 
 Oulu University of Applied Sciences <br>
-Bachelor’s Degree of Engineering In IT <br>
+Infromation Technology <br>
 Author: Nibesh Khadka <br>
 Title of the bachelor’s thesis: General Machine Learning Practices Using Py-thon<br>
 Supervisor: Kari Jyrkkä<br>
-Term and year of completion: Spring, 2019 Number of pages: 80 pages<br>
+Term and year of completion: Spring, 2019           Number of pages: 80 <br>
 
 ---
 
